@@ -1,4 +1,4 @@
-# Simple Bootstrap Landing Page for CSS Grid Practice
+# Simple Landing Page for CSS Grid Practice
 
 ## Overview
 This project is a simple landing page designed specifically for practicing CSS Grid Box.
